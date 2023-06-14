@@ -44,7 +44,7 @@ As soon as we run the code we will obtain two results, a first one with the iden
 
 
 <p align="center">
-  <img src="OliveTrees_Detection/output/OLIVE_DETECTION.png" alt="Clustering"/>
+  <img src="OliveTrees_Detection/output/OLIVE_DETECTION.jpg" alt="Clustering"/>
 </p>
 
 Finally, as we can see, the classification process is not perfect, but it is only a simple script to obtain first results in this field and can be improved later on.
