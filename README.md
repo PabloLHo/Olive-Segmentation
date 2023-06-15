@@ -21,7 +21,7 @@ ejecutable.sh
 
 ## Development
 
-The development of this script arises with the idea of optimising a functionality for a computer engineering dissertation that can be found here. The idea is to obtain a possible location of olive trees within a plot of land.
+The development of this script arises with the idea of optimising a functionality for a computer engineering dissertation that can be found [here](https://github.com/PabloLHo/Prototipo-Aplicacion-WebGL.git). The idea is to obtain a possible location of olive trees within a plot of land.
 
 For this we worked with the OpenCV and DBSCAN libraries to be able to work with satellite images. With OpenCV we perform a contour detection after applying multiple classic operations of the library, thanks to these we can isolate the contours by zones and delimit olive tree positions. 
 
